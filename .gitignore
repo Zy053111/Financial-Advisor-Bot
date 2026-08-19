@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.zip
+*.parquet
+.idea/
+.vscode/
+*.mp4
+*.drawio

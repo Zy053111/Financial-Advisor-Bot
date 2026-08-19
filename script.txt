@@ -1,0 +1,55 @@
+1. Introduction
+
+Hi im lau zhen yi. today i present the progress of my final year project -- Financial advisor bot for active portfolio management.
+
+Active wealth management presents an intense technical hurdle for everyday retail investors due to the highly volatile, non-linear, and stochastic nature of modern equity markets. While institutional quantitative platforms deploy advanced deep learning models to achieve alpha, these systems remain strict 'black-boxes'. This opaque nature alienates non-technical users, reducing system trust and oversight.
+
+My project solves this disconnect by introducing a hybrid artificial intelligence framework that couples deep reinforcement learning portfolio optimization with localized natural language explanation layers to deliver automated, transparent strategic rationales.
+
+
+2. system architecture -- show architecture diagram
+
+To achieve fault isolation and operational scalability, the system is engineered using a decoupled, four-layer architecture. 
+
+Layer 1 handles real-time historical market ingestion via the yfinance API.
+
+Layer 2 is our quantitative core, implementing a custom Gymnasium financial environment and a stable Proximal Policy Optimization (PPO) network to generate asset weights.
+
+Layer 3 acts as our middleware interpreter, serializing raw numeric vectors into structured JSON payloads to drive local, edge-hosted large language models via Ollama.
+
+Layer 4 delivers the presentation views through a decoupled secure Django REST API and an interactive React.js client dashboard.
+
+--- show dfd ---
+As detailed in this Level-1 Data Flow Diagram, a single portfolio recommendation cycles seamlessly across subsystem boundaries. Raw prices are ingested, cleaned via data imputation (ffill/bfill), and transformed into stationary log returns, RSI, and MACD indicators. These indicators form  multi-dimensional state tensor. The PPO model evaluates this matrix, applies an exponential Softmax normalization layer to output a safe asset weight simplex, and passes this telemetry data to local Llama-3 model to generate conversational plain-English prose.
+
+
+3. show code
+Let  look at the functional feature prototype pipeline in action. As I run the script , the data pipeline layer initializes and fetches pristine daily closing metrics for the 'Magnificent Seven' equity basket.
+
+Once ingestion finishes, our custom Gymnasium financial environment successfully configures. The PPO algorithm compiles its baseline multi-layer perceptron policy network and begins training for 1,000 algorithmic timesteps to verify convergence loops without script regression.
+
+--- Run the code ---
+
+Now that the policy has completed training, the simulation runs a single-step inference cycle. Look at these output parameters on my screen
+
+The engine successfully generated specific targets—allocating roughly 33.23% into META, 25.45% into GOOGL, down to 4.50% into AAPL. Our defensive assert blocks verify that this distribution vector sums up to exactly $1.0$, preventing illegal leverage.
+
+The network achieved a highly robust rolling Sharpe Metric of 3.6419. This proves that our rolling 20-day reward engine is actively guiding the neural network to balance performance against down-side asset volatility.
+
+The floating-point array is cleanly packaged into this structured telemetry JSON schema. Ollama successfully intercepts this payload, parses the metrics, and prints this clear prose rationale: 'High concentration is given to META to maximize risk-adjusted momentum...'
+
+
+4. --- show dual-track---
+To ensure maximum engineering validity, the system deploys a strict, dual-track validation framework.
+
+Track 1 routes my optimized portfolio weight outputs straight into an event-driven Backtrader engine. Unlike idealized models, this pipeline introduces a 0.1% fixed trading fee and execution slippage penalties to measure true real-world financial efficacy against simple buy-and-hold baselines.
+
+Track 2 handles qualitative accessibility testing, streaming the generated conversational prose to a five-user non-technical retail cohort to calculate official system usability scale (SUS) scores. This ensures my interface builds genuine user trust.
+
+5. conclusion
+
+In conclusion, my prototype successfully demonstrates that a decoupled multi-agent AI system can bridge institutional financial engineering with transparent consumer communication.
+
+next immediate sprints involve expanding the PPO optimization horizons to 100,000 timesteps to prevent regime overfitting, establishing asynchronous Django REST endpoints to remove thread lag, and completing my React data presentation screen.
+
+that all for my presentation . Thank you

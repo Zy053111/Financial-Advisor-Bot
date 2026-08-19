@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="vHkxebfXJyKCfJ4XEv1z">
+    <mxGraphModel dx="975" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#D6B656;" value="" vertex="1">
+          <mxGeometry height="130" width="910" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-13" edge="1" parent="1" source="qF3yCqvdZSUVPY_WEzlg-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" target="qF3yCqvdZSUVPY_WEzlg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-21" connectable="0" parent="qF3yCqvdZSUVPY_WEzlg-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#D6B656;" value="Displays Plain-English Strategy Prose" vertex="1">
+          <mxGeometry relative="1" x="-0.2863" y="2" as="geometry">
+            <mxPoint x="108" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#82B366;" value="" vertex="1">
+          <mxGeometry height="130" width="910" x="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-12" edge="1" parent="1" source="qF3yCqvdZSUVPY_WEzlg-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" target="qF3yCqvdZSUVPY_WEzlg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-20" connectable="0" parent="qF3yCqvdZSUVPY_WEzlg-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#5B7D47;" value="Ingests Numeric Portfolio Weights" vertex="1">
+          <mxGeometry relative="1" x="-0.203" y="-1" as="geometry">
+            <mxPoint x="86" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="FAB System Outputs:&lt;div&gt;[Optimized Weights Vector (w&lt;sub&gt;t&lt;/sub&gt;)]&lt;/div&gt;&lt;div&gt;[Generated Semantic Prose Text]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-16" edge="1" parent="1" source="qF3yCqvdZSUVPY_WEzlg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82B366;" target="qF3yCqvdZSUVPY_WEzlg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-22" connectable="0" parent="qF3yCqvdZSUVPY_WEzlg-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#5B7D47;" value="Generates Financial&amp;nbsp;&lt;div&gt;Performance Plots&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3393" as="geometry">
+            <mxPoint x="20" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Event-Driven Backtesting Module&lt;div&gt;(Backtrader Simulation Engine)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="220" x="500" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-14" edge="1" parent="1" source="qF3yCqvdZSUVPY_WEzlg-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=oval;endFill=1;" target="qF3yCqvdZSUVPY_WEzlg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Real-World Market Friction&lt;div&gt;[0.1% Trading Fee + Variable Slippage]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="230" x="160" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Quantitative Benchmarks:&lt;div&gt;- Sharpe Ratio Optimization&lt;/div&gt;&lt;div&gt;- Sortino Ratio (Downside Risk)&lt;/div&gt;&lt;div&gt;- Max Drawdown Recovery vs. B&amp;amp;H&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="210" x="827" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-17" edge="1" parent="1" source="qF3yCqvdZSUVPY_WEzlg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;" target="qF3yCqvdZSUVPY_WEzlg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-23" connectable="0" parent="qF3yCqvdZSUVPY_WEzlg-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#D6B656;" value="Compiles Evaluation&amp;nbsp;&lt;div&gt;Feedback Logs&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0815" y="-1" as="geometry">
+            <mxPoint x="6" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="User Experience Cohort Study&lt;div&gt;(5 Non-Technical Retail Investors)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="220" x="500" y="382.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-15" edge="1" parent="1" source="qF3yCqvdZSUVPY_WEzlg-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=oval;endFill=1;" target="qF3yCqvdZSUVPY_WEzlg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Standardized Assessment&lt;div&gt;[System Usability Scale (SUS)]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="185" x="205" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Qualitative Benchmarks:&lt;div&gt;- Subjective Stakeholder Trust&lt;/div&gt;&lt;div&gt;- Cognitive Clarity of Prose Rationale&lt;/div&gt;&lt;div&gt;- Digital Accessibility Score&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="210" x="827" y="367.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TRACK 1: QUANTITATIVE STRATEGY VALIDATION" vertex="1">
+          <mxGeometry height="30" width="330" x="445" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qF3yCqvdZSUVPY_WEzlg-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TRACK 2: QUALITATIVE ACCESSIBILITY VALIDATION" vertex="1">
+          <mxGeometry height="30" width="330" x="445" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
