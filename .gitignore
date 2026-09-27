@@ -1,10 +1,31 @@
+# Python artifacts
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
 venv/
-*.zip
-*.parquet
-.idea/
+env/
+ENV/
+.env
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Django & Databases
+*.sqlite3
+db.sqlite3
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
 .vscode/
-*.mp4
-*.drawio
+.idea/

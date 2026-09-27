@@ -1,0 +1,2492 @@
+[
+  {
+    "date": "2025-01-02",
+    "ppo_value": 100000.0,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100000.0
+  },
+  {
+    "date": "2025-01-03",
+    "ppo_value": 101918.53,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101592.81
+  },
+  {
+    "date": "2025-01-06",
+    "ppo_value": 103709.81,
+    "mpt_value": 100000.0,
+    "benchmark_value": 103554.78
+  },
+  {
+    "date": "2025-01-07",
+    "ppo_value": 101069.42,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100899.03
+  },
+  {
+    "date": "2025-01-08",
+    "ppo_value": 100937.32,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100741.92
+  },
+  {
+    "date": "2025-01-10",
+    "ppo_value": 99738.63,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99543.3
+  },
+  {
+    "date": "2025-01-13",
+    "ppo_value": 99425.82,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99102.67
+  },
+  {
+    "date": "2025-01-14",
+    "ppo_value": 98444.78,
+    "mpt_value": 100000.0,
+    "benchmark_value": 98110.22
+  },
+  {
+    "date": "2025-01-15",
+    "ppo_value": 102163.13,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101695.34
+  },
+  {
+    "date": "2025-01-16",
+    "ppo_value": 100144.7,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99765.11
+  },
+  {
+    "date": "2025-01-17",
+    "ppo_value": 101944.15,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101511.54
+  },
+  {
+    "date": "2025-01-21",
+    "ppo_value": 102194.18,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101837.02
+  },
+  {
+    "date": "2025-01-22",
+    "ppo_value": 103525.32,
+    "mpt_value": 100000.0,
+    "benchmark_value": 103270.05
+  },
+  {
+    "date": "2025-01-23",
+    "ppo_value": 103662.98,
+    "mpt_value": 100000.0,
+    "benchmark_value": 103485.15
+  },
+  {
+    "date": "2025-01-24",
+    "ppo_value": 103080.88,
+    "mpt_value": 100000.0,
+    "benchmark_value": 103040.03
+  },
+  {
+    "date": "2025-01-27",
+    "ppo_value": 99725.62,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99994.84
+  },
+  {
+    "date": "2025-01-28",
+    "ppo_value": 102580.29,
+    "mpt_value": 100000.0,
+    "benchmark_value": 102797.1
+  },
+  {
+    "date": "2025-01-29",
+    "ppo_value": 101407.86,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101810.64
+  },
+  {
+    "date": "2025-01-30",
+    "ppo_value": 101524.93,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101793.41
+  },
+  {
+    "date": "2025-01-31",
+    "ppo_value": 101515.32,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101871.28
+  },
+  {
+    "date": "2025-02-03",
+    "ppo_value": 99476.77,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100104.9
+  },
+  {
+    "date": "2025-02-04",
+    "ppo_value": 101175.59,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101789.13
+  },
+  {
+    "date": "2025-02-05",
+    "ppo_value": 100018.47,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100432.5
+  },
+  {
+    "date": "2025-02-06",
+    "ppo_value": 100749.68,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101167.67
+  },
+  {
+    "date": "2025-02-07",
+    "ppo_value": 98795.53,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99257.55
+  },
+  {
+    "date": "2025-02-10",
+    "ppo_value": 99185.46,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99742.02
+  },
+  {
+    "date": "2025-02-11",
+    "ppo_value": 98272.98,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99050.54
+  },
+  {
+    "date": "2025-02-12",
+    "ppo_value": 98362.38,
+    "mpt_value": 100000.0,
+    "benchmark_value": 99100.19
+  },
+  {
+    "date": "2025-02-13",
+    "ppo_value": 100385.13,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100922.58
+  },
+  {
+    "date": "2025-02-14",
+    "ppo_value": 100818.7,
+    "mpt_value": 100000.0,
+    "benchmark_value": 101403.46
+  },
+  {
+    "date": "2025-02-18",
+    "ppo_value": 100303.59,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100725.53
+  },
+  {
+    "date": "2025-02-19",
+    "ppo_value": 100730.64,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100964.41
+  },
+  {
+    "date": "2025-02-20",
+    "ppo_value": 100214.24,
+    "mpt_value": 100000.0,
+    "benchmark_value": 100459.47
+  },
+  {
+    "date": "2025-02-21",
+    "ppo_value": 97587.61,
+    "mpt_value": 100000.0,
+    "benchmark_value": 97952.23
+  },
+  {
+    "date": "2025-02-24",
+    "ppo_value": 96202.45,
+    "mpt_value": 100000.0,
+    "benchmark_value": 96575.15
+  },
+  {
+    "date": "2025-02-25",
+    "ppo_value": 93798.52,
+    "mpt_value": 100000.0,
+    "benchmark_value": 94442.56
+  },
+  {
+    "date": "2025-02-26",
+    "ppo_value": 93510.68,
+    "mpt_value": 100000.0,
+    "benchmark_value": 94415.44
+  },
+  {
+    "date": "2025-02-27",
+    "ppo_value": 90684.64,
+    "mpt_value": 100000.0,
+    "benchmark_value": 91494.92
+  },
+  {
+    "date": "2025-02-28",
+    "ppo_value": 92665.73,
+    "mpt_value": 100000.0,
+    "benchmark_value": 93396.4
+  },
+  {
+    "date": "2025-03-03",
+    "ppo_value": 89737.14,
+    "mpt_value": 100000.0,
+    "benchmark_value": 90454.04
+  },
+  {
+    "date": "2025-03-04",
+    "ppo_value": 89053.59,
+    "mpt_value": 100000.0,
+    "benchmark_value": 89935.64
+  },
+  {
+    "date": "2025-03-05",
+    "ppo_value": 90754.29,
+    "mpt_value": 100000.0,
+    "benchmark_value": 91562.71
+  },
+  {
+    "date": "2025-03-06",
+    "ppo_value": 87992.29,
+    "mpt_value": 100000.0,
+    "benchmark_value": 88936.06
+  },
+  {
+    "date": "2025-03-07",
+    "ppo_value": 88163.71,
+    "mpt_value": 100000.0,
+    "benchmark_value": 89191.83
+  },
+  {
+    "date": "2025-03-10",
+    "ppo_value": 83013.02,
+    "mpt_value": 100000.0,
+    "benchmark_value": 84468.22
+  },
+  {
+    "date": "2025-03-11",
+    "ppo_value": 83521.97,
+    "mpt_value": 100000.0,
+    "benchmark_value": 84754.65
+  },
+  {
+    "date": "2025-03-12",
+    "ppo_value": 85739.44,
+    "mpt_value": 100000.0,
+    "benchmark_value": 86682.46
+  },
+  {
+    "date": "2025-03-13",
+    "ppo_value": 83674.18,
+    "mpt_value": 100000.0,
+    "benchmark_value": 84505.95
+  },
+  {
+    "date": "2025-03-14",
+    "ppo_value": 86079.9,
+    "mpt_value": 100000.0,
+    "benchmark_value": 86892.32
+  },
+  {
+    "date": "2025-03-17",
+    "ppo_value": 84896.61,
+    "mpt_value": 100000.0,
+    "benchmark_value": 85971.31
+  },
+  {
+    "date": "2025-03-18",
+    "ppo_value": 82641.27,
+    "mpt_value": 100000.0,
+    "benchmark_value": 83855.84
+  },
+  {
+    "date": "2025-03-19",
+    "ppo_value": 84194.43,
+    "mpt_value": 100000.0,
+    "benchmark_value": 85208.34
+  },
+  {
+    "date": "2025-03-20",
+    "ppo_value": 84153.55,
+    "mpt_value": 100000.0,
+    "benchmark_value": 85152.44
+  },
+  {
+    "date": "2025-03-21",
+    "ppo_value": 85526.21,
+    "mpt_value": 100000.0,
+    "benchmark_value": 86325.15
+  },
+  {
+    "date": "2025-03-24",
+    "ppo_value": 89028.4,
+    "mpt_value": 100000.0,
+    "benchmark_value": 89254.25
+  },
+  {
+    "date": "2025-03-25",
+    "ppo_value": 90256.28,
+    "mpt_value": 100000.0,
+    "benchmark_value": 90330.69
+  },
+  {
+    "date": "2025-03-26",
+    "ppo_value": 87384.34,
+    "mpt_value": 100000.0,
+    "benchmark_value": 87664.29
+  },
+  {
+    "date": "2025-03-27",
+    "ppo_value": 87016.14,
+    "mpt_value": 100000.0,
+    "benchmark_value": 87232.83
+  },
+  {
+    "date": "2025-03-28",
+    "ppo_value": 84029.18,
+    "mpt_value": 100000.0,
+    "benchmark_value": 84217.41
+  },
+  {
+    "date": "2025-03-31",
+    "ppo_value": 83581.58,
+    "mpt_value": 100000.0,
+    "benchmark_value": 83912.89
+  },
+  {
+    "date": "2025-04-01",
+    "ppo_value": 85038.69,
+    "mpt_value": 100000.0,
+    "benchmark_value": 85253.99
+  },
+  {
+    "date": "2025-04-02",
+    "ppo_value": 86152.73,
+    "mpt_value": 100000.0,
+    "benchmark_value": 86046.3
+  },
+  {
+    "date": "2025-04-03",
+    "ppo_value": 80520.28,
+    "mpt_value": 100000.0,
+    "benchmark_value": 80274.16
+  },
+  {
+    "date": "2025-04-04",
+    "ppo_value": 75666.95,
+    "mpt_value": 99528.25,
+    "benchmark_value": 75687.37
+  },
+  {
+    "date": "2025-04-07",
+    "ppo_value": 75824.54,
+    "mpt_value": 100463.54,
+    "benchmark_value": 75952.37
+  },
+  {
+    "date": "2025-04-08",
+    "ppo_value": 73881.92,
+    "mpt_value": 99106.48,
+    "benchmark_value": 74170.5
+  },
+  {
+    "date": "2025-04-09",
+    "ppo_value": 84751.02,
+    "mpt_value": 110889.33,
+    "benchmark_value": 84722.14
+  },
+  {
+    "date": "2025-04-10",
+    "ppo_value": 80435.84,
+    "mpt_value": 105911.7,
+    "benchmark_value": 80517.15
+  },
+  {
+    "date": "2025-04-11",
+    "ppo_value": 81886.49,
+    "mpt_value": 106928.81,
+    "benchmark_value": 82044.69
+  },
+  {
+    "date": "2025-04-14",
+    "ppo_value": 81811.63,
+    "mpt_value": 105771.14,
+    "benchmark_value": 81949.43
+  },
+  {
+    "date": "2025-04-15",
+    "ppo_value": 81432.06,
+    "mpt_value": 104563.78,
+    "benchmark_value": 81479.34
+  },
+  {
+    "date": "2025-04-16",
+    "ppo_value": 78204.72,
+    "mpt_value": 101007.25,
+    "benchmark_value": 78287.35
+  },
+  {
+    "date": "2025-04-17",
+    "ppo_value": 77635.03,
+    "mpt_value": 100419.54,
+    "benchmark_value": 77711.59
+  },
+  {
+    "date": "2025-04-21",
+    "ppo_value": 74969.58,
+    "mpt_value": 97685.99,
+    "benchmark_value": 75228.44
+  },
+  {
+    "date": "2025-04-22",
+    "ppo_value": 77319.78,
+    "mpt_value": 100324.33,
+    "benchmark_value": 77480.38
+  },
+  {
+    "date": "2025-04-23",
+    "ppo_value": 80093.45,
+    "mpt_value": 103392.96,
+    "benchmark_value": 80107.16
+  },
+  {
+    "date": "2025-04-24",
+    "ppo_value": 82478.47,
+    "mpt_value": 106345.53,
+    "benchmark_value": 82437.33
+  },
+  {
+    "date": "2025-04-25",
+    "ppo_value": 85267.01,
+    "mpt_value": 108128.28,
+    "benchmark_value": 84735.74
+  },
+  {
+    "date": "2025-04-28",
+    "ppo_value": 84975.08,
+    "mpt_value": 108132.83,
+    "benchmark_value": 84436.39
+  },
+  {
+    "date": "2025-04-29",
+    "ppo_value": 85547.53,
+    "mpt_value": 108779.52,
+    "benchmark_value": 84907.49
+  },
+  {
+    "date": "2025-04-30",
+    "ppo_value": 84655.02,
+    "mpt_value": 108247.71,
+    "benchmark_value": 84232.46
+  },
+  {
+    "date": "2025-05-01",
+    "ppo_value": 86748.27,
+    "mpt_value": 113749.37,
+    "benchmark_value": 86597.32
+  },
+  {
+    "date": "2025-05-02",
+    "ppo_value": 87946.85,
+    "mpt_value": 116510.07,
+    "benchmark_value": 87764.47
+  },
+  {
+    "date": "2025-05-05",
+    "ppo_value": 86930.52,
+    "mpt_value": 116332.84,
+    "benchmark_value": 86921.22
+  },
+  {
+    "date": "2025-05-06",
+    "ppo_value": 86129.33,
+    "mpt_value": 114937.54,
+    "benchmark_value": 86159.5
+  },
+  {
+    "date": "2025-05-07",
+    "ppo_value": 86000.59,
+    "mpt_value": 115619.21,
+    "benchmark_value": 85992.0
+  },
+  {
+    "date": "2025-05-08",
+    "ppo_value": 87220.26,
+    "mpt_value": 116246.45,
+    "benchmark_value": 87036.38
+  },
+  {
+    "date": "2025-05-09",
+    "ppo_value": 87920.37,
+    "mpt_value": 115911.41,
+    "benchmark_value": 87361.55
+  },
+  {
+    "date": "2025-05-12",
+    "ppo_value": 93095.37,
+    "mpt_value": 120756.7,
+    "benchmark_value": 92346.02
+  },
+  {
+    "date": "2025-05-13",
+    "ppo_value": 95425.71,
+    "mpt_value": 122020.67,
+    "benchmark_value": 94395.02
+  },
+  {
+    "date": "2025-05-14",
+    "ppo_value": 97265.09,
+    "mpt_value": 122664.37,
+    "benchmark_value": 95987.43
+  },
+  {
+    "date": "2025-05-15",
+    "ppo_value": 96142.78,
+    "mpt_value": 121598.06,
+    "benchmark_value": 94952.91
+  },
+  {
+    "date": "2025-05-16",
+    "ppo_value": 96670.22,
+    "mpt_value": 121452.93,
+    "benchmark_value": 95415.87
+  },
+  {
+    "date": "2025-05-19",
+    "ppo_value": 96394.66,
+    "mpt_value": 121912.67,
+    "benchmark_value": 95215.33
+  },
+  {
+    "date": "2025-05-20",
+    "ppo_value": 95792.31,
+    "mpt_value": 121556.4,
+    "benchmark_value": 94619.63
+  },
+  {
+    "date": "2025-05-21",
+    "ppo_value": 94803.45,
+    "mpt_value": 120759.11,
+    "benchmark_value": 93661.99
+  },
+  {
+    "date": "2025-05-22",
+    "ppo_value": 95586.35,
+    "mpt_value": 121074.28,
+    "benchmark_value": 94363.25
+  },
+  {
+    "date": "2025-05-23",
+    "ppo_value": 94310.2,
+    "mpt_value": 119764.34,
+    "benchmark_value": 93094.94
+  },
+  {
+    "date": "2025-05-27",
+    "ppo_value": 97459.22,
+    "mpt_value": 122111.88,
+    "benchmark_value": 96044.91
+  },
+  {
+    "date": "2025-05-28",
+    "ppo_value": 96912.76,
+    "mpt_value": 121851.93,
+    "benchmark_value": 95557.96
+  },
+  {
+    "date": "2025-05-29",
+    "ppo_value": 97502.49,
+    "mpt_value": 122096.39,
+    "benchmark_value": 96140.49
+  },
+  {
+    "date": "2025-05-30",
+    "ppo_value": 96596.07,
+    "mpt_value": 122471.96,
+    "benchmark_value": 95392.65
+  },
+  {
+    "date": "2025-06-02",
+    "ppo_value": 97030.93,
+    "mpt_value": 124407.98,
+    "benchmark_value": 96027.36
+  },
+  {
+    "date": "2025-06-03",
+    "ppo_value": 97301.23,
+    "mpt_value": 124236.46,
+    "benchmark_value": 96240.52
+  },
+  {
+    "date": "2025-06-04",
+    "ppo_value": 97347.16,
+    "mpt_value": 125903.18,
+    "benchmark_value": 96584.39
+  },
+  {
+    "date": "2025-06-05",
+    "ppo_value": 94689.96,
+    "mpt_value": 123649.73,
+    "benchmark_value": 94613.02
+  },
+  {
+    "date": "2025-06-06",
+    "ppo_value": 96725.78,
+    "mpt_value": 124724.15,
+    "benchmark_value": 96531.54
+  },
+  {
+    "date": "2025-06-09",
+    "ppo_value": 97777.68,
+    "mpt_value": 125987.95,
+    "benchmark_value": 97387.52
+  },
+  {
+    "date": "2025-06-10",
+    "ppo_value": 99217.0,
+    "mpt_value": 127103.68,
+    "benchmark_value": 98601.02
+  },
+  {
+    "date": "2025-06-11",
+    "ppo_value": 98387.18,
+    "mpt_value": 127312.66,
+    "benchmark_value": 97762.47
+  },
+  {
+    "date": "2025-06-12",
+    "ppo_value": 98337.76,
+    "mpt_value": 127438.24,
+    "benchmark_value": 97811.04
+  },
+  {
+    "date": "2025-06-13",
+    "ppo_value": 97700.28,
+    "mpt_value": 127481.23,
+    "benchmark_value": 97045.78
+  },
+  {
+    "date": "2025-06-16",
+    "ppo_value": 99165.78,
+    "mpt_value": 128218.89,
+    "benchmark_value": 98589.28
+  },
+  {
+    "date": "2025-06-17",
+    "ppo_value": 97973.12,
+    "mpt_value": 127141.66,
+    "benchmark_value": 97602.28
+  },
+  {
+    "date": "2025-06-18",
+    "ppo_value": 98182.43,
+    "mpt_value": 127806.61,
+    "benchmark_value": 97704.95
+  },
+  {
+    "date": "2025-06-20",
+    "ppo_value": 97318.15,
+    "mpt_value": 127508.33,
+    "benchmark_value": 96717.42
+  },
+  {
+    "date": "2025-06-23",
+    "ppo_value": 99102.34,
+    "mpt_value": 130425.56,
+    "benchmark_value": 98234.91
+  },
+  {
+    "date": "2025-06-24",
+    "ppo_value": 99774.27,
+    "mpt_value": 130253.41,
+    "benchmark_value": 99088.97
+  },
+  {
+    "date": "2025-06-25",
+    "ppo_value": 100165.04,
+    "mpt_value": 129517.55,
+    "benchmark_value": 99577.86
+  },
+  {
+    "date": "2025-06-26",
+    "ppo_value": 101112.62,
+    "mpt_value": 129943.9,
+    "benchmark_value": 100668.04
+  },
+  {
+    "date": "2025-06-27",
+    "ppo_value": 102186.67,
+    "mpt_value": 129619.67,
+    "benchmark_value": 101764.17
+  },
+  {
+    "date": "2025-06-30",
+    "ppo_value": 101806.66,
+    "mpt_value": 129330.58,
+    "benchmark_value": 101537.68
+  },
+  {
+    "date": "2025-07-01",
+    "ppo_value": 100153.7,
+    "mpt_value": 127480.8,
+    "benchmark_value": 100010.52
+  },
+  {
+    "date": "2025-07-02",
+    "ppo_value": 101777.79,
+    "mpt_value": 128497.69,
+    "benchmark_value": 101253.29
+  },
+  {
+    "date": "2025-07-03",
+    "ppo_value": 102634.4,
+    "mpt_value": 129311.67,
+    "benchmark_value": 102197.62
+  },
+  {
+    "date": "2025-07-07",
+    "ppo_value": 100784.74,
+    "mpt_value": 127585.04,
+    "benchmark_value": 100827.26
+  },
+  {
+    "date": "2025-07-08",
+    "ppo_value": 100720.12,
+    "mpt_value": 127550.03,
+    "benchmark_value": 100726.31
+  },
+  {
+    "date": "2025-07-09",
+    "ppo_value": 101701.18,
+    "mpt_value": 128238.69,
+    "benchmark_value": 101899.18
+  },
+  {
+    "date": "2025-07-10",
+    "ppo_value": 102705.12,
+    "mpt_value": 129133.69,
+    "benchmark_value": 102478.2
+  },
+  {
+    "date": "2025-07-11",
+    "ppo_value": 103233.74,
+    "mpt_value": 129737.04,
+    "benchmark_value": 102831.35
+  },
+  {
+    "date": "2025-07-14",
+    "ppo_value": 103414.44,
+    "mpt_value": 130035.48,
+    "benchmark_value": 102933.65
+  },
+  {
+    "date": "2025-07-15",
+    "ppo_value": 103657.37,
+    "mpt_value": 129888.95,
+    "benchmark_value": 103345.2
+  },
+  {
+    "date": "2025-07-16",
+    "ppo_value": 104209.85,
+    "mpt_value": 130738.27,
+    "benchmark_value": 103570.66
+  },
+  {
+    "date": "2025-07-17",
+    "ppo_value": 104453.57,
+    "mpt_value": 131228.33,
+    "benchmark_value": 103906.36
+  },
+  {
+    "date": "2025-07-18",
+    "ppo_value": 105389.85,
+    "mpt_value": 131907.52,
+    "benchmark_value": 104557.59
+  },
+  {
+    "date": "2025-07-21",
+    "ppo_value": 106065.36,
+    "mpt_value": 132097.79,
+    "benchmark_value": 105264.28
+  },
+  {
+    "date": "2025-07-22",
+    "ppo_value": 105754.24,
+    "mpt_value": 131943.96,
+    "benchmark_value": 104691.23
+  },
+  {
+    "date": "2025-07-23",
+    "ppo_value": 106207.37,
+    "mpt_value": 131978.67,
+    "benchmark_value": 105269.27
+  },
+  {
+    "date": "2025-07-24",
+    "ppo_value": 105312.39,
+    "mpt_value": 130556.44,
+    "benchmark_value": 105135.69
+  },
+  {
+    "date": "2025-07-25",
+    "ppo_value": 106051.22,
+    "mpt_value": 131710.24,
+    "benchmark_value": 105587.79
+  },
+  {
+    "date": "2025-07-28",
+    "ppo_value": 107034.19,
+    "mpt_value": 132267.49,
+    "benchmark_value": 106398.61
+  },
+  {
+    "date": "2025-07-29",
+    "ppo_value": 106308.62,
+    "mpt_value": 132119.19,
+    "benchmark_value": 105666.74
+  },
+  {
+    "date": "2025-07-30",
+    "ppo_value": 106284.15,
+    "mpt_value": 132068.94,
+    "benchmark_value": 105761.37
+  },
+  {
+    "date": "2025-07-31",
+    "ppo_value": 107120.63,
+    "mpt_value": 133093.83,
+    "benchmark_value": 107512.47
+  },
+  {
+    "date": "2025-08-01",
+    "ppo_value": 103892.45,
+    "mpt_value": 131552.02,
+    "benchmark_value": 104273.33
+  },
+  {
+    "date": "2025-08-04",
+    "ppo_value": 105860.05,
+    "mpt_value": 133560.57,
+    "benchmark_value": 106456.64
+  },
+  {
+    "date": "2025-08-05",
+    "ppo_value": 105360.37,
+    "mpt_value": 132687.27,
+    "benchmark_value": 105777.78
+  },
+  {
+    "date": "2025-08-06",
+    "ppo_value": 107659.05,
+    "mpt_value": 132483.05,
+    "benchmark_value": 107672.44
+  },
+  {
+    "date": "2025-08-07",
+    "ppo_value": 108216.41,
+    "mpt_value": 132121.86,
+    "benchmark_value": 108010.24
+  },
+  {
+    "date": "2025-08-08",
+    "ppo_value": 109971.3,
+    "mpt_value": 132826.63,
+    "benchmark_value": 109578.55
+  },
+  {
+    "date": "2025-08-11",
+    "ppo_value": 110201.91,
+    "mpt_value": 132759.36,
+    "benchmark_value": 109539.5
+  },
+  {
+    "date": "2025-08-12",
+    "ppo_value": 111323.91,
+    "mpt_value": 133790.8,
+    "benchmark_value": 110855.12
+  },
+  {
+    "date": "2025-08-13",
+    "ppo_value": 111079.32,
+    "mpt_value": 132752.39,
+    "benchmark_value": 110431.76
+  },
+  {
+    "date": "2025-08-14",
+    "ppo_value": 111467.14,
+    "mpt_value": 133055.73,
+    "benchmark_value": 110898.1
+  },
+  {
+    "date": "2025-08-15",
+    "ppo_value": 110976.2,
+    "mpt_value": 132930.28,
+    "benchmark_value": 110549.34
+  },
+  {
+    "date": "2025-08-18",
+    "ppo_value": 111017.62,
+    "mpt_value": 132577.77,
+    "benchmark_value": 110325.42
+  },
+  {
+    "date": "2025-08-19",
+    "ppo_value": 109223.63,
+    "mpt_value": 131604.64,
+    "benchmark_value": 108457.05
+  },
+  {
+    "date": "2025-08-20",
+    "ppo_value": 107903.66,
+    "mpt_value": 130925.59,
+    "benchmark_value": 107305.24
+  },
+  {
+    "date": "2025-08-21",
+    "ppo_value": 107276.56,
+    "mpt_value": 130906.61,
+    "benchmark_value": 106750.18
+  },
+  {
+    "date": "2025-08-22",
+    "ppo_value": 110357.17,
+    "mpt_value": 131974.51,
+    "benchmark_value": 109339.19
+  },
+  {
+    "date": "2025-08-25",
+    "ppo_value": 110896.69,
+    "mpt_value": 131962.85,
+    "benchmark_value": 109722.22
+  },
+  {
+    "date": "2025-08-26",
+    "ppo_value": 111442.64,
+    "mpt_value": 131584.59,
+    "benchmark_value": 110129.43
+  },
+  {
+    "date": "2025-08-27",
+    "ppo_value": 111458.31,
+    "mpt_value": 132097.98,
+    "benchmark_value": 110160.83
+  },
+  {
+    "date": "2025-08-28",
+    "ppo_value": 111860.59,
+    "mpt_value": 132876.92,
+    "benchmark_value": 110654.58
+  },
+  {
+    "date": "2025-08-29",
+    "ppo_value": 110192.9,
+    "mpt_value": 132715.7,
+    "benchmark_value": 109110.9
+  },
+  {
+    "date": "2025-09-02",
+    "ppo_value": 109009.03,
+    "mpt_value": 132368.92,
+    "benchmark_value": 107966.35
+  },
+  {
+    "date": "2025-09-03",
+    "ppo_value": 111234.04,
+    "mpt_value": 134667.56,
+    "benchmark_value": 110176.31
+  },
+  {
+    "date": "2025-09-04",
+    "ppo_value": 112779.66,
+    "mpt_value": 135129.9,
+    "benchmark_value": 111621.47
+  },
+  {
+    "date": "2025-09-05",
+    "ppo_value": 112792.41,
+    "mpt_value": 134631.56,
+    "benchmark_value": 111232.02
+  },
+  {
+    "date": "2025-09-08",
+    "ppo_value": 112808.55,
+    "mpt_value": 134509.73,
+    "benchmark_value": 111366.9
+  },
+  {
+    "date": "2025-09-09",
+    "ppo_value": 113559.18,
+    "mpt_value": 135435.88,
+    "benchmark_value": 112318.25
+  },
+  {
+    "date": "2025-09-10",
+    "ppo_value": 112867.21,
+    "mpt_value": 134651.19,
+    "benchmark_value": 111790.17
+  },
+  {
+    "date": "2025-09-11",
+    "ppo_value": 114517.57,
+    "mpt_value": 135360.82,
+    "benchmark_value": 112805.22
+  },
+  {
+    "date": "2025-09-12",
+    "ppo_value": 116904.28,
+    "mpt_value": 136648.89,
+    "benchmark_value": 114437.58
+  },
+  {
+    "date": "2025-09-15",
+    "ppo_value": 119241.87,
+    "mpt_value": 139904.68,
+    "benchmark_value": 116518.22
+  },
+  {
+    "date": "2025-09-16",
+    "ppo_value": 120060.14,
+    "mpt_value": 139464.3,
+    "benchmark_value": 116985.73
+  },
+  {
+    "date": "2025-09-17",
+    "ppo_value": 119689.17,
+    "mpt_value": 139261.37,
+    "benchmark_value": 116400.75
+  },
+  {
+    "date": "2025-09-18",
+    "ppo_value": 119721.59,
+    "mpt_value": 139584.46,
+    "benchmark_value": 116826.48
+  },
+  {
+    "date": "2025-09-19",
+    "ppo_value": 121291.29,
+    "mpt_value": 141823.14,
+    "benchmark_value": 118153.77
+  },
+  {
+    "date": "2025-09-22",
+    "ppo_value": 122361.89,
+    "mpt_value": 142212.81,
+    "benchmark_value": 118971.18
+  },
+  {
+    "date": "2025-09-23",
+    "ppo_value": 120337.68,
+    "mpt_value": 141400.43,
+    "benchmark_value": 117124.72
+  },
+  {
+    "date": "2025-09-24",
+    "ppo_value": 120931.43,
+    "mpt_value": 140206.39,
+    "benchmark_value": 117258.42
+  },
+  {
+    "date": "2025-09-25",
+    "ppo_value": 119585.12,
+    "mpt_value": 140126.89,
+    "benchmark_value": 116275.06
+  },
+  {
+    "date": "2025-09-26",
+    "ppo_value": 120730.87,
+    "mpt_value": 140518.17,
+    "benchmark_value": 117064.37
+  },
+  {
+    "date": "2025-09-29",
+    "ppo_value": 121258.0,
+    "mpt_value": 140080.67,
+    "benchmark_value": 117548.43
+  },
+  {
+    "date": "2025-09-30",
+    "ppo_value": 121402.07,
+    "mpt_value": 140152.66,
+    "benchmark_value": 117770.66
+  },
+  {
+    "date": "2025-10-01",
+    "ppo_value": 122250.01,
+    "mpt_value": 140817.79,
+    "benchmark_value": 118303.0
+  },
+  {
+    "date": "2025-10-02",
+    "ppo_value": 121479.11,
+    "mpt_value": 140844.77,
+    "benchmark_value": 117965.17
+  },
+  {
+    "date": "2025-10-03",
+    "ppo_value": 120533.41,
+    "mpt_value": 140987.36,
+    "benchmark_value": 117123.67
+  },
+  {
+    "date": "2025-10-06",
+    "ppo_value": 122554.24,
+    "mpt_value": 142038.42,
+    "benchmark_value": 118662.64
+  },
+  {
+    "date": "2025-10-07",
+    "ppo_value": 120968.96,
+    "mpt_value": 140830.28,
+    "benchmark_value": 117346.0
+  },
+  {
+    "date": "2025-10-08",
+    "ppo_value": 122012.2,
+    "mpt_value": 141472.11,
+    "benchmark_value": 118337.7
+  },
+  {
+    "date": "2025-10-09",
+    "ppo_value": 122104.09,
+    "mpt_value": 140992.17,
+    "benchmark_value": 118547.36
+  },
+  {
+    "date": "2025-10-10",
+    "ppo_value": 117467.8,
+    "mpt_value": 137244.39,
+    "benchmark_value": 114117.42
+  },
+  {
+    "date": "2025-10-13",
+    "ppo_value": 120294.8,
+    "mpt_value": 140190.99,
+    "benchmark_value": 116763.9
+  },
+  {
+    "date": "2025-10-14",
+    "ppo_value": 118979.4,
+    "mpt_value": 138981.26,
+    "benchmark_value": 115355.93
+  },
+  {
+    "date": "2025-10-15",
+    "ppo_value": 119782.04,
+    "mpt_value": 140391.15,
+    "benchmark_value": 116210.72
+  },
+  {
+    "date": "2025-10-16",
+    "ppo_value": 119292.94,
+    "mpt_value": 140658.87,
+    "benchmark_value": 115840.95
+  },
+  {
+    "date": "2025-10-17",
+    "ppo_value": 120374.84,
+    "mpt_value": 141828.18,
+    "benchmark_value": 116884.88
+  },
+  {
+    "date": "2025-10-20",
+    "ppo_value": 122233.47,
+    "mpt_value": 143460.64,
+    "benchmark_value": 118631.97
+  },
+  {
+    "date": "2025-10-21",
+    "ppo_value": 122033.64,
+    "mpt_value": 141834.76,
+    "benchmark_value": 118286.56
+  },
+  {
+    "date": "2025-10-22",
+    "ppo_value": 121346.57,
+    "mpt_value": 141527.76,
+    "benchmark_value": 117739.1
+  },
+  {
+    "date": "2025-10-23",
+    "ppo_value": 122432.94,
+    "mpt_value": 142312.71,
+    "benchmark_value": 118688.23
+  },
+  {
+    "date": "2025-10-24",
+    "ppo_value": 123063.47,
+    "mpt_value": 144941.47,
+    "benchmark_value": 119649.57
+  },
+  {
+    "date": "2025-10-27",
+    "ppo_value": 126218.18,
+    "mpt_value": 148660.05,
+    "benchmark_value": 122659.64
+  },
+  {
+    "date": "2025-10-28",
+    "ppo_value": 127962.71,
+    "mpt_value": 150013.85,
+    "benchmark_value": 124333.16
+  },
+  {
+    "date": "2025-10-29",
+    "ppo_value": 129102.17,
+    "mpt_value": 152816.9,
+    "benchmark_value": 125613.43
+  },
+  {
+    "date": "2025-10-30",
+    "ppo_value": 125298.0,
+    "mpt_value": 153797.61,
+    "benchmark_value": 122048.52
+  },
+  {
+    "date": "2025-10-31",
+    "ppo_value": 127338.05,
+    "mpt_value": 153572.63,
+    "benchmark_value": 123217.46
+  },
+  {
+    "date": "2025-11-03",
+    "ppo_value": 129078.2,
+    "mpt_value": 154838.6,
+    "benchmark_value": 124572.72
+  },
+  {
+    "date": "2025-11-04",
+    "ppo_value": 126033.3,
+    "mpt_value": 152053.06,
+    "benchmark_value": 121806.07
+  },
+  {
+    "date": "2025-11-05",
+    "ppo_value": 127221.25,
+    "mpt_value": 154338.75,
+    "benchmark_value": 122632.27
+  },
+  {
+    "date": "2025-11-06",
+    "ppo_value": 124422.18,
+    "mpt_value": 153343.43,
+    "benchmark_value": 120125.18
+  },
+  {
+    "date": "2025-11-07",
+    "ppo_value": 123192.8,
+    "mpt_value": 151067.3,
+    "benchmark_value": 119148.45
+  },
+  {
+    "date": "2025-11-10",
+    "ppo_value": 126519.55,
+    "mpt_value": 154973.41,
+    "benchmark_value": 122560.07
+  },
+  {
+    "date": "2025-11-11",
+    "ppo_value": 126231.3,
+    "mpt_value": 155322.49,
+    "benchmark_value": 122208.05
+  },
+  {
+    "date": "2025-11-12",
+    "ppo_value": 124678.42,
+    "mpt_value": 153679.49,
+    "benchmark_value": 120846.07
+  },
+  {
+    "date": "2025-11-13",
+    "ppo_value": 121158.0,
+    "mpt_value": 150102.48,
+    "benchmark_value": 117766.66
+  },
+  {
+    "date": "2025-11-14",
+    "ppo_value": 121420.92,
+    "mpt_value": 149796.85,
+    "benchmark_value": 118038.26
+  },
+  {
+    "date": "2025-11-17",
+    "ppo_value": 121222.29,
+    "mpt_value": 151368.78,
+    "benchmark_value": 117815.24
+  },
+  {
+    "date": "2025-11-18",
+    "ppo_value": 118876.48,
+    "mpt_value": 150619.05,
+    "benchmark_value": 115714.9
+  },
+  {
+    "date": "2025-11-19",
+    "ppo_value": 119544.69,
+    "mpt_value": 153032.38,
+    "benchmark_value": 116665.44
+  },
+  {
+    "date": "2025-11-20",
+    "ppo_value": 117504.24,
+    "mpt_value": 151375.05,
+    "benchmark_value": 114704.98
+  },
+  {
+    "date": "2025-11-21",
+    "ppo_value": 118159.68,
+    "mpt_value": 153975.84,
+    "benchmark_value": 115574.04
+  },
+  {
+    "date": "2025-11-24",
+    "ppo_value": 122248.27,
+    "mpt_value": 160199.96,
+    "benchmark_value": 119467.21
+  },
+  {
+    "date": "2025-11-25",
+    "ppo_value": 123215.62,
+    "mpt_value": 161312.4,
+    "benchmark_value": 120315.97
+  },
+  {
+    "date": "2025-11-26",
+    "ppo_value": 123930.48,
+    "mpt_value": 161007.58,
+    "benchmark_value": 120800.41
+  },
+  {
+    "date": "2025-11-28",
+    "ppo_value": 124879.58,
+    "mpt_value": 161231.15,
+    "benchmark_value": 121500.71
+  },
+  {
+    "date": "2025-12-01",
+    "ppo_value": 124886.04,
+    "mpt_value": 160547.02,
+    "benchmark_value": 121355.76
+  },
+  {
+    "date": "2025-12-02",
+    "ppo_value": 125488.26,
+    "mpt_value": 161082.31,
+    "benchmark_value": 122018.95
+  },
+  {
+    "date": "2025-12-03",
+    "ppo_value": 125703.21,
+    "mpt_value": 162526.4,
+    "benchmark_value": 121922.86
+  },
+  {
+    "date": "2025-12-04",
+    "ppo_value": 126548.3,
+    "mpt_value": 162142.96,
+    "benchmark_value": 122647.1
+  },
+  {
+    "date": "2025-12-05",
+    "ppo_value": 126919.79,
+    "mpt_value": 162768.8,
+    "benchmark_value": 123102.9
+  },
+  {
+    "date": "2025-12-08",
+    "ppo_value": 125778.53,
+    "mpt_value": 160682.24,
+    "benchmark_value": 122197.96
+  },
+  {
+    "date": "2025-12-09",
+    "ppo_value": 126089.01,
+    "mpt_value": 161520.16,
+    "benchmark_value": 122428.9
+  },
+  {
+    "date": "2025-12-10",
+    "ppo_value": 126315.94,
+    "mpt_value": 162528.11,
+    "benchmark_value": 122503.01
+  },
+  {
+    "date": "2025-12-11",
+    "ppo_value": 125486.54,
+    "mpt_value": 160418.95,
+    "benchmark_value": 121544.0
+  },
+  {
+    "date": "2025-12-12",
+    "ppo_value": 124857.87,
+    "mpt_value": 159821.82,
+    "benchmark_value": 120539.76
+  },
+  {
+    "date": "2025-12-15",
+    "ppo_value": 125259.02,
+    "mpt_value": 159671.9,
+    "benchmark_value": 120678.17
+  },
+  {
+    "date": "2025-12-16",
+    "ppo_value": 126357.73,
+    "mpt_value": 159805.88,
+    "benchmark_value": 121545.77
+  },
+  {
+    "date": "2025-12-17",
+    "ppo_value": 123635.41,
+    "mpt_value": 156357.54,
+    "benchmark_value": 118844.5
+  },
+  {
+    "date": "2025-12-18",
+    "ppo_value": 126131.09,
+    "mpt_value": 158294.24,
+    "benchmark_value": 121179.81
+  },
+  {
+    "date": "2025-12-19",
+    "ppo_value": 126999.6,
+    "mpt_value": 159736.56,
+    "benchmark_value": 122215.22
+  },
+  {
+    "date": "2025-12-22",
+    "ppo_value": 127695.27,
+    "mpt_value": 160392.61,
+    "benchmark_value": 122906.54
+  },
+  {
+    "date": "2025-12-23",
+    "ppo_value": 128866.61,
+    "mpt_value": 161715.0,
+    "benchmark_value": 124161.98
+  },
+  {
+    "date": "2025-12-24",
+    "ppo_value": 129008.4,
+    "mpt_value": 161769.79,
+    "benchmark_value": 124275.07
+  },
+  {
+    "date": "2025-12-26",
+    "ppo_value": 128564.01,
+    "mpt_value": 161386.33,
+    "benchmark_value": 123927.74
+  },
+  {
+    "date": "2025-12-29",
+    "ppo_value": 127496.79,
+    "mpt_value": 160905.82,
+    "benchmark_value": 122984.92
+  },
+  {
+    "date": "2025-12-30",
+    "ppo_value": 127384.49,
+    "mpt_value": 160732.52,
+    "benchmark_value": 122912.93
+  },
+  {
+    "date": "2025-12-31",
+    "ppo_value": 126500.4,
+    "mpt_value": 160242.72,
+    "benchmark_value": 122121.99
+  },
+  {
+    "date": "2026-01-02",
+    "ppo_value": 125262.22,
+    "mpt_value": 160422.07,
+    "benchmark_value": 121183.79
+  },
+  {
+    "date": "2026-01-05",
+    "ppo_value": 126402.98,
+    "mpt_value": 160723.97,
+    "benchmark_value": 122104.58
+  },
+  {
+    "date": "2026-01-06",
+    "ppo_value": 125838.15,
+    "mpt_value": 158502.86,
+    "benchmark_value": 121605.8
+  },
+  {
+    "date": "2026-01-07",
+    "ppo_value": 126179.5,
+    "mpt_value": 159601.72,
+    "benchmark_value": 122127.05
+  },
+  {
+    "date": "2026-01-08",
+    "ppo_value": 126198.62,
+    "mpt_value": 159956.64,
+    "benchmark_value": 122115.58
+  },
+  {
+    "date": "2026-01-09",
+    "ppo_value": 127096.2,
+    "mpt_value": 160923.94,
+    "benchmark_value": 122961.58
+  },
+  {
+    "date": "2026-01-12",
+    "ppo_value": 127156.79,
+    "mpt_value": 161919.09,
+    "benchmark_value": 123030.19
+  },
+  {
+    "date": "2026-01-13",
+    "ppo_value": 126686.09,
+    "mpt_value": 162933.62,
+    "benchmark_value": 122691.78
+  },
+  {
+    "date": "2026-01-14",
+    "ppo_value": 124731.32,
+    "mpt_value": 162314.61,
+    "benchmark_value": 120927.83
+  },
+  {
+    "date": "2026-01-15",
+    "ppo_value": 124968.53,
+    "mpt_value": 161409.37,
+    "benchmark_value": 121101.53
+  },
+  {
+    "date": "2026-01-16",
+    "ppo_value": 124691.49,
+    "mpt_value": 160136.55,
+    "benchmark_value": 120767.54
+  },
+  {
+    "date": "2026-01-20",
+    "ppo_value": 120782.57,
+    "mpt_value": 155548.83,
+    "benchmark_value": 117064.96
+  },
+  {
+    "date": "2026-01-21",
+    "ppo_value": 122132.31,
+    "mpt_value": 157626.98,
+    "benchmark_value": 118460.03
+  },
+  {
+    "date": "2026-01-22",
+    "ppo_value": 124602.03,
+    "mpt_value": 158797.43,
+    "benchmark_value": 120709.56
+  },
+  {
+    "date": "2026-01-23",
+    "ppo_value": 125886.2,
+    "mpt_value": 158296.04,
+    "benchmark_value": 121840.04
+  },
+  {
+    "date": "2026-01-26",
+    "ppo_value": 126279.93,
+    "mpt_value": 160716.64,
+    "benchmark_value": 122447.71
+  },
+  {
+    "date": "2026-01-27",
+    "ppo_value": 127413.46,
+    "mpt_value": 161628.07,
+    "benchmark_value": 123526.74
+  },
+  {
+    "date": "2026-01-28",
+    "ppo_value": 127508.87,
+    "mpt_value": 161620.92,
+    "benchmark_value": 123688.6
+  },
+  {
+    "date": "2026-01-29",
+    "ppo_value": 126814.26,
+    "mpt_value": 162141.52,
+    "benchmark_value": 123404.44
+  },
+  {
+    "date": "2026-01-30",
+    "ppo_value": 126663.18,
+    "mpt_value": 162711.78,
+    "benchmark_value": 123062.27
+  },
+  {
+    "date": "2026-02-02",
+    "ppo_value": 126526.76,
+    "mpt_value": 165940.04,
+    "benchmark_value": 122991.13
+  },
+  {
+    "date": "2026-02-03",
+    "ppo_value": 124675.3,
+    "mpt_value": 164796.2,
+    "benchmark_value": 121099.71
+  },
+  {
+    "date": "2026-02-04",
+    "ppo_value": 122583.2,
+    "mpt_value": 164430.95,
+    "benchmark_value": 119009.74
+  },
+  {
+    "date": "2026-02-05",
+    "ppo_value": 120106.92,
+    "mpt_value": 163746.63,
+    "benchmark_value": 116954.18
+  },
+  {
+    "date": "2026-02-06",
+    "ppo_value": 121135.54,
+    "mpt_value": 162808.43,
+    "benchmark_value": 117620.62
+  },
+  {
+    "date": "2026-02-09",
+    "ppo_value": 122463.81,
+    "mpt_value": 162785.7,
+    "benchmark_value": 118925.04
+  },
+  {
+    "date": "2026-02-10",
+    "ppo_value": 122187.27,
+    "mpt_value": 161731.55,
+    "benchmark_value": 118304.78
+  },
+  {
+    "date": "2026-02-11",
+    "ppo_value": 121540.75,
+    "mpt_value": 160583.92,
+    "benchmark_value": 117578.35
+  },
+  {
+    "date": "2026-02-12",
+    "ppo_value": 118843.77,
+    "mpt_value": 157821.18,
+    "benchmark_value": 115081.01
+  },
+  {
+    "date": "2026-02-13",
+    "ppo_value": 117714.0,
+    "mpt_value": 156292.45,
+    "benchmark_value": 113774.43
+  },
+  {
+    "date": "2026-02-17",
+    "ppo_value": 117848.11,
+    "mpt_value": 156583.42,
+    "benchmark_value": 113933.85
+  },
+  {
+    "date": "2026-02-18",
+    "ppo_value": 118773.62,
+    "mpt_value": 156932.0,
+    "benchmark_value": 114810.19
+  },
+  {
+    "date": "2026-02-19",
+    "ppo_value": 118569.88,
+    "mpt_value": 156283.57,
+    "benchmark_value": 114590.94
+  },
+  {
+    "date": "2026-02-20",
+    "ppo_value": 120282.65,
+    "mpt_value": 159282.66,
+    "benchmark_value": 116480.02
+  },
+  {
+    "date": "2026-02-23",
+    "ppo_value": 118249.87,
+    "mpt_value": 158496.82,
+    "benchmark_value": 114882.62
+  },
+  {
+    "date": "2026-02-24",
+    "ppo_value": 119711.17,
+    "mpt_value": 159540.05,
+    "benchmark_value": 116087.44
+  },
+  {
+    "date": "2026-02-25",
+    "ppo_value": 121606.17,
+    "mpt_value": 160472.78,
+    "benchmark_value": 117791.76
+  },
+  {
+    "date": "2026-02-26",
+    "ppo_value": 119876.07,
+    "mpt_value": 158943.32,
+    "benchmark_value": 115820.47
+  },
+  {
+    "date": "2026-02-27",
+    "ppo_value": 118272.25,
+    "mpt_value": 158325.76,
+    "benchmark_value": 114242.28
+  },
+  {
+    "date": "2026-03-02",
+    "ppo_value": 118685.48,
+    "mpt_value": 157393.79,
+    "benchmark_value": 114672.64
+  },
+  {
+    "date": "2026-03-03",
+    "ppo_value": 118042.41,
+    "mpt_value": 156362.64,
+    "benchmark_value": 113981.65
+  },
+  {
+    "date": "2026-03-04",
+    "ppo_value": 119869.0,
+    "mpt_value": 156467.83,
+    "benchmark_value": 115533.84
+  },
+  {
+    "date": "2026-03-05",
+    "ppo_value": 119911.12,
+    "mpt_value": 155678.36,
+    "benchmark_value": 115407.34
+  },
+  {
+    "date": "2026-03-06",
+    "ppo_value": 117766.71,
+    "mpt_value": 154541.28,
+    "benchmark_value": 113384.79
+  },
+  {
+    "date": "2026-03-09",
+    "ppo_value": 118979.34,
+    "mpt_value": 156381.43,
+    "benchmark_value": 114790.04
+  },
+  {
+    "date": "2026-03-10",
+    "ppo_value": 119348.81,
+    "mpt_value": 157216.69,
+    "benchmark_value": 115219.03
+  },
+  {
+    "date": "2026-03-11",
+    "ppo_value": 119862.57,
+    "mpt_value": 157960.04,
+    "benchmark_value": 115670.98
+  },
+  {
+    "date": "2026-03-12",
+    "ppo_value": 117587.17,
+    "mpt_value": 156088.46,
+    "benchmark_value": 113531.92
+  },
+  {
+    "date": "2026-03-13",
+    "ppo_value": 115778.39,
+    "mpt_value": 154811.28,
+    "benchmark_value": 111772.14
+  },
+  {
+    "date": "2026-03-16",
+    "ppo_value": 117447.56,
+    "mpt_value": 156368.19,
+    "benchmark_value": 113380.66
+  },
+  {
+    "date": "2026-03-17",
+    "ppo_value": 118055.91,
+    "mpt_value": 156562.51,
+    "benchmark_value": 113962.99
+  },
+  {
+    "date": "2026-03-18",
+    "ppo_value": 116244.91,
+    "mpt_value": 155401.84,
+    "benchmark_value": 112311.47
+  },
+  {
+    "date": "2026-03-19",
+    "ppo_value": 114930.64,
+    "mpt_value": 154328.85,
+    "benchmark_value": 111189.77
+  },
+  {
+    "date": "2026-03-20",
+    "ppo_value": 112483.65,
+    "mpt_value": 151354.59,
+    "benchmark_value": 108855.96
+  },
+  {
+    "date": "2026-03-23",
+    "ppo_value": 114373.02,
+    "mpt_value": 152998.01,
+    "benchmark_value": 110503.08
+  },
+  {
+    "date": "2026-03-24",
+    "ppo_value": 112932.95,
+    "mpt_value": 151914.06,
+    "benchmark_value": 108887.92
+  },
+  {
+    "date": "2026-03-25",
+    "ppo_value": 113791.66,
+    "mpt_value": 153411.15,
+    "benchmark_value": 109721.78
+  },
+  {
+    "date": "2026-03-26",
+    "ppo_value": 110307.96,
+    "mpt_value": 149522.14,
+    "benchmark_value": 106184.61
+  },
+  {
+    "date": "2026-03-27",
+    "ppo_value": 107277.62,
+    "mpt_value": 147131.63,
+    "benchmark_value": 103350.46
+  },
+  {
+    "date": "2026-03-30",
+    "ppo_value": 107080.25,
+    "mpt_value": 146129.71,
+    "benchmark_value": 103098.04
+  },
+  {
+    "date": "2026-03-31",
+    "ppo_value": 111791.81,
+    "mpt_value": 151140.98,
+    "benchmark_value": 107800.4
+  },
+  {
+    "date": "2026-04-01",
+    "ppo_value": 113335.13,
+    "mpt_value": 152709.54,
+    "benchmark_value": 109418.97
+  },
+  {
+    "date": "2026-04-02",
+    "ppo_value": 112329.66,
+    "mpt_value": 152546.84,
+    "benchmark_value": 108696.13
+  },
+  {
+    "date": "2026-04-06",
+    "ppo_value": 112510.21,
+    "mpt_value": 152851.16,
+    "benchmark_value": 109064.14
+  },
+  {
+    "date": "2026-04-07",
+    "ppo_value": 112282.72,
+    "mpt_value": 153290.56,
+    "benchmark_value": 109066.58
+  },
+  {
+    "date": "2026-04-08",
+    "ppo_value": 114876.04,
+    "mpt_value": 155761.73,
+    "benchmark_value": 111962.73
+  },
+  {
+    "date": "2026-04-09",
+    "ppo_value": 116599.03,
+    "mpt_value": 157023.49,
+    "benchmark_value": 113537.66
+  },
+  {
+    "date": "2026-04-10",
+    "ppo_value": 117400.67,
+    "mpt_value": 158840.4,
+    "benchmark_value": 114313.71
+  },
+  {
+    "date": "2026-04-13",
+    "ppo_value": 118579.48,
+    "mpt_value": 159539.97,
+    "benchmark_value": 115402.56
+  },
+  {
+    "date": "2026-04-14",
+    "ppo_value": 121988.82,
+    "mpt_value": 163597.14,
+    "benchmark_value": 118948.22
+  },
+  {
+    "date": "2026-04-15",
+    "ppo_value": 125267.0,
+    "mpt_value": 165493.36,
+    "benchmark_value": 121769.31
+  },
+  {
+    "date": "2026-04-16",
+    "ppo_value": 125347.52,
+    "mpt_value": 165189.51,
+    "benchmark_value": 121846.65
+  },
+  {
+    "date": "2026-04-17",
+    "ppo_value": 127505.5,
+    "mpt_value": 167136.17,
+    "benchmark_value": 123857.83
+  },
+  {
+    "date": "2026-04-20",
+    "ppo_value": 126305.87,
+    "mpt_value": 166630.75,
+    "benchmark_value": 122732.32
+  },
+  {
+    "date": "2026-04-21",
+    "ppo_value": 125343.36,
+    "mpt_value": 165376.15,
+    "benchmark_value": 121756.85
+  },
+  {
+    "date": "2026-04-22",
+    "ppo_value": 127308.01,
+    "mpt_value": 167057.07,
+    "benchmark_value": 123785.83
+  },
+  {
+    "date": "2026-04-23",
+    "ppo_value": 125185.25,
+    "mpt_value": 165634.66,
+    "benchmark_value": 122007.67
+  },
+  {
+    "date": "2026-04-24",
+    "ppo_value": 127555.6,
+    "mpt_value": 169460.11,
+    "benchmark_value": 124498.65
+  },
+  {
+    "date": "2026-04-27",
+    "ppo_value": 128431.44,
+    "mpt_value": 172763.99,
+    "benchmark_value": 125590.75
+  },
+  {
+    "date": "2026-04-28",
+    "ppo_value": 128059.36,
+    "mpt_value": 171398.93,
+    "benchmark_value": 125171.67
+  },
+  {
+    "date": "2026-04-29",
+    "ppo_value": 127455.75,
+    "mpt_value": 170086.79,
+    "benchmark_value": 124630.41
+  },
+  {
+    "date": "2026-04-30",
+    "ppo_value": 127263.57,
+    "mpt_value": 169695.91,
+    "benchmark_value": 124892.95
+  },
+  {
+    "date": "2026-05-01",
+    "ppo_value": 128759.85,
+    "mpt_value": 169753.52,
+    "benchmark_value": 126059.96
+  },
+  {
+    "date": "2026-05-04",
+    "ppo_value": 128824.89,
+    "mpt_value": 169770.06,
+    "benchmark_value": 126000.78
+  },
+  {
+    "date": "2026-05-05",
+    "ppo_value": 129015.07,
+    "mpt_value": 169444.86,
+    "benchmark_value": 126396.94
+  },
+  {
+    "date": "2026-05-06",
+    "ppo_value": 131649.5,
+    "mpt_value": 174424.97,
+    "benchmark_value": 129185.08
+  },
+  {
+    "date": "2026-05-07",
+    "ppo_value": 132979.96,
+    "mpt_value": 175702.85,
+    "benchmark_value": 130114.02
+  },
+  {
+    "date": "2026-05-08",
+    "ppo_value": 134595.18,
+    "mpt_value": 177960.42,
+    "benchmark_value": 131404.08
+  },
+  {
+    "date": "2026-05-11",
+    "ppo_value": 134895.64,
+    "mpt_value": 177803.22,
+    "benchmark_value": 130956.23
+  },
+  {
+    "date": "2026-05-12",
+    "ppo_value": 133900.6,
+    "mpt_value": 177617.19,
+    "benchmark_value": 130421.6
+  },
+  {
+    "date": "2026-05-13",
+    "ppo_value": 136482.01,
+    "mpt_value": 182320.74,
+    "benchmark_value": 133264.0
+  },
+  {
+    "date": "2026-05-14",
+    "ppo_value": 136947.0,
+    "mpt_value": 185346.58,
+    "benchmark_value": 134052.53
+  },
+  {
+    "date": "2026-05-15",
+    "ppo_value": 135115.33,
+    "mpt_value": 180332.13,
+    "benchmark_value": 132129.54
+  },
+  {
+    "date": "2026-05-18",
+    "ppo_value": 134023.31,
+    "mpt_value": 179000.61,
+    "benchmark_value": 131270.63
+  },
+  {
+    "date": "2026-05-19",
+    "ppo_value": 132245.14,
+    "mpt_value": 176540.24,
+    "benchmark_value": 129490.68
+  },
+  {
+    "date": "2026-05-20",
+    "ppo_value": 134231.39,
+    "mpt_value": 178317.92,
+    "benchmark_value": 131100.57
+  },
+  {
+    "date": "2026-05-21",
+    "ppo_value": 134408.37,
+    "mpt_value": 176889.6,
+    "benchmark_value": 131021.46
+  },
+  {
+    "date": "2026-05-22",
+    "ppo_value": 134550.07,
+    "mpt_value": 174831.28,
+    "benchmark_value": 130679.87
+  },
+  {
+    "date": "2026-05-26",
+    "ppo_value": 135099.4,
+    "mpt_value": 175791.53,
+    "benchmark_value": 131221.52
+  },
+  {
+    "date": "2026-05-27",
+    "ppo_value": 136491.0,
+    "mpt_value": 175437.63,
+    "benchmark_value": 132217.05
+  },
+  {
+    "date": "2026-05-28",
+    "ppo_value": 137735.1,
+    "mpt_value": 176349.99,
+    "benchmark_value": 133270.48
+  },
+  {
+    "date": "2026-05-29",
+    "ppo_value": 137448.31,
+    "mpt_value": 173391.58,
+    "benchmark_value": 132467.64
+  },
+  {
+    "date": "2026-06-01",
+    "ppo_value": 135499.04,
+    "mpt_value": 176429.36,
+    "benchmark_value": 131465.49
+  },
+  {
+    "date": "2026-06-02",
+    "ppo_value": 134338.72,
+    "mpt_value": 173599.79,
+    "benchmark_value": 130013.93
+  },
+  {
+    "date": "2026-06-03",
+    "ppo_value": 132822.11,
+    "mpt_value": 170089.82,
+    "benchmark_value": 128370.11
+  },
+  {
+    "date": "2026-06-04",
+    "ppo_value": 133945.12,
+    "mpt_value": 173654.72,
+    "benchmark_value": 130020.67
+  },
+  {
+    "date": "2026-06-05",
+    "ppo_value": 128784.25,
+    "mpt_value": 167289.1,
+    "benchmark_value": 125429.22
+  },
+  {
+    "date": "2026-06-08",
+    "ppo_value": 129148.85,
+    "mpt_value": 168186.98,
+    "benchmark_value": 125346.9
+  },
+  {
+    "date": "2026-06-09",
+    "ppo_value": 127360.92,
+    "mpt_value": 167800.71,
+    "benchmark_value": 123902.98
+  },
+  {
+    "date": "2026-06-10",
+    "ppo_value": 124363.39,
+    "mpt_value": 163174.16,
+    "benchmark_value": 121101.11
+  },
+  {
+    "date": "2026-06-11",
+    "ppo_value": 125963.63,
+    "mpt_value": 165569.73,
+    "benchmark_value": 122479.41
+  },
+  {
+    "date": "2026-06-12",
+    "ppo_value": 126014.26,
+    "mpt_value": 166079.64,
+    "benchmark_value": 122450.4
+  },
+  {
+    "date": "2026-06-15",
+    "ppo_value": 129329.58,
+    "mpt_value": 170575.19,
+    "benchmark_value": 125814.37
+  },
+  {
+    "date": "2026-06-16",
+    "ppo_value": 128792.88,
+    "mpt_value": 169268.25,
+    "benchmark_value": 125466.51
+  },
+  {
+    "date": "2026-06-17",
+    "ppo_value": 125212.58,
+    "mpt_value": 166231.92,
+    "benchmark_value": 122172.39
+  },
+  {
+    "date": "2026-06-18",
+    "ppo_value": 127086.77,
+    "mpt_value": 169390.59,
+    "benchmark_value": 124064.42
+  },
+  {
+    "date": "2026-06-22",
+    "ppo_value": 124419.89,
+    "mpt_value": 165415.89,
+    "benchmark_value": 121129.76
+  },
+  {
+    "date": "2026-06-23",
+    "ppo_value": 122450.49,
+    "mpt_value": 161245.61,
+    "benchmark_value": 119221.32
+  },
+  {
+    "date": "2026-06-24",
+    "ppo_value": 121403.78,
+    "mpt_value": 160584.79,
+    "benchmark_value": 118372.75
+  },
+  {
+    "date": "2026-06-25",
+    "ppo_value": 118451.4,
+    "mpt_value": 158910.0,
+    "benchmark_value": 115613.14
+  },
+  {
+    "date": "2026-06-26",
+    "ppo_value": 120308.51,
+    "mpt_value": 157121.66,
+    "benchmark_value": 116704.48
+  },
+  {
+    "date": "2026-06-29",
+    "ppo_value": 123643.82,
+    "mpt_value": 161768.75,
+    "benchmark_value": 119854.32
+  },
+  {
+    "date": "2026-06-30",
+    "ppo_value": 125252.42,
+    "mpt_value": 164323.93,
+    "benchmark_value": 121484.91
+  },
+  {
+    "date": "2026-07-01",
+    "ppo_value": 127887.06,
+    "mpt_value": 164328.55,
+    "benchmark_value": 123722.73
+  },
+  {
+    "date": "2026-07-02",
+    "ppo_value": 126224.14,
+    "mpt_value": 162308.52,
+    "benchmark_value": 122586.53
+  },
+  {
+    "date": "2026-07-06",
+    "ppo_value": 128669.17,
+    "mpt_value": 164406.25,
+    "benchmark_value": 124731.01
+  },
+  {
+    "date": "2026-07-07",
+    "ppo_value": 128402.75,
+    "mpt_value": 164574.46,
+    "benchmark_value": 124713.04
+  },
+  {
+    "date": "2026-07-08",
+    "ppo_value": 127690.13,
+    "mpt_value": 165914.41,
+    "benchmark_value": 124279.37
+  },
+  {
+    "date": "2026-07-09",
+    "ppo_value": 129437.02,
+    "mpt_value": 165256.66,
+    "benchmark_value": 125449.13
+  },
+  {
+    "date": "2026-07-10",
+    "ppo_value": 130881.04,
+    "mpt_value": 167777.33,
+    "benchmark_value": 126938.38
+  },
+  {
+    "date": "2026-07-13",
+    "ppo_value": 129491.08,
+    "mpt_value": 164336.05,
+    "benchmark_value": 125499.15
+  },
+  {
+    "date": "2026-07-14",
+    "ppo_value": 130265.99,
+    "mpt_value": 168363.8,
+    "benchmark_value": 126687.78
+  },
+  {
+    "date": "2026-07-15",
+    "ppo_value": 132974.42,
+    "mpt_value": 170702.73,
+    "benchmark_value": 129603.89
+  },
+  {
+    "date": "2026-07-16",
+    "ppo_value": 131349.91,
+    "mpt_value": 166041.29,
+    "benchmark_value": 127534.65
+  },
+  {
+    "date": "2026-07-17",
+    "ppo_value": 129005.66,
+    "mpt_value": 162964.3,
+    "benchmark_value": 125292.7
+  },
+  {
+    "date": "2026-07-20",
+    "ppo_value": 128808.13,
+    "mpt_value": 163914.66,
+    "benchmark_value": 125354.23
+  },
+  {
+    "date": "2026-07-21",
+    "ppo_value": 129203.49,
+    "mpt_value": 164568.16,
+    "benchmark_value": 125460.99
+  },
+  {
+    "date": "2026-07-22",
+    "ppo_value": 128043.03,
+    "mpt_value": 165240.65,
+    "benchmark_value": 124474.42
+  },
+  {
+    "date": "2026-07-23",
+    "ppo_value": 120936.16,
+    "mpt_value": 158981.95,
+    "benchmark_value": 118548.83
+  },
+  {
+    "date": "2026-07-24",
+    "ppo_value": 120579.96,
+    "mpt_value": 158492.24,
+    "benchmark_value": 118582.12
+  },
+  {
+    "date": "2026-07-27",
+    "ppo_value": 120238.5,
+    "mpt_value": 155918.03,
+    "benchmark_value": 118293.52
+  },
+  {
+    "date": "2026-07-28",
+    "ppo_value": 120814.56,
+    "mpt_value": 157197.19,
+    "benchmark_value": 119101.61
+  },
+  {
+    "date": "2026-07-29",
+    "ppo_value": 119025.53,
+    "mpt_value": 154958.94,
+    "benchmark_value": 117613.22
+  },
+  {
+    "date": "2026-07-30",
+    "ppo_value": 122343.35,
+    "mpt_value": 156700.41,
+    "benchmark_value": 119561.37
+  },
+  {
+    "date": "2026-07-31",
+    "ppo_value": 127021.26,
+    "mpt_value": 163704.7,
+    "benchmark_value": 123652.86
+  },
+  {
+    "date": "2026-08-03",
+    "ppo_value": 131656.97,
+    "mpt_value": 169173.41,
+    "benchmark_value": 127985.58
+  },
+  {
+    "date": "2026-08-04",
+    "ppo_value": 132614.83,
+    "mpt_value": 171504.84,
+    "benchmark_value": 129087.31
+  },
+  {
+    "date": "2026-08-05",
+    "ppo_value": 131645.89,
+    "mpt_value": 171324.14,
+    "benchmark_value": 128108.69
+  },
+  {
+    "date": "2026-08-06",
+    "ppo_value": 131778.81,
+    "mpt_value": 170448.1,
+    "benchmark_value": 128164.47
+  },
+  {
+    "date": "2026-08-07",
+    "ppo_value": 132952.96,
+    "mpt_value": 171831.69,
+    "benchmark_value": 129003.4
+  },
+  {
+    "date": "2026-08-10",
+    "ppo_value": 133034.18,
+    "mpt_value": 170290.97,
+    "benchmark_value": 128889.05
+  },
+  {
+    "date": "2026-08-11",
+    "ppo_value": 131797.7,
+    "mpt_value": 167871.94,
+    "benchmark_value": 127377.08
+  },
+  {
+    "date": "2026-08-12",
+    "ppo_value": 130656.01,
+    "mpt_value": 169857.05,
+    "benchmark_value": 126510.81
+  },
+  {
+    "date": "2026-08-13",
+    "ppo_value": 132360.8,
+    "mpt_value": 170823.99,
+    "benchmark_value": 127869.08
+  },
+  {
+    "date": "2026-08-14",
+    "ppo_value": 132169.29,
+    "mpt_value": 170639.41,
+    "benchmark_value": 127618.49
+  },
+  {
+    "date": "2026-08-17",
+    "ppo_value": 130685.0,
+    "mpt_value": 170189.06,
+    "benchmark_value": 126253.96
+  },
+  {
+    "date": "2026-08-18",
+    "ppo_value": 129604.84,
+    "mpt_value": 168284.64,
+    "benchmark_value": 125241.3
+  },
+  {
+    "date": "2026-08-19",
+    "ppo_value": 131352.21,
+    "mpt_value": 168052.83,
+    "benchmark_value": 126538.62
+  },
+  {
+    "date": "2026-08-20",
+    "ppo_value": 129871.39,
+    "mpt_value": 166852.8,
+    "benchmark_value": 125166.3
+  },
+  {
+    "date": "2026-08-21",
+    "ppo_value": 131056.68,
+    "mpt_value": 166972.09,
+    "benchmark_value": 125869.12
+  },
+  {
+    "date": "2026-08-24",
+    "ppo_value": 130544.03,
+    "mpt_value": 165260.28,
+    "benchmark_value": 125582.0
+  },
+  {
+    "date": "2026-08-25",
+    "ppo_value": 131335.04,
+    "mpt_value": 166651.69,
+    "benchmark_value": 126330.52
+  },
+  {
+    "date": "2026-08-26",
+    "ppo_value": 131033.08,
+    "mpt_value": 164583.58,
+    "benchmark_value": 125904.11
+  },
+  {
+    "date": "2026-08-27",
+    "ppo_value": 132876.1,
+    "mpt_value": 170707.7,
+    "benchmark_value": 128009.34
+  },
+  {
+    "date": "2026-08-28",
+    "ppo_value": 133639.37,
+    "mpt_value": 168339.47,
+    "benchmark_value": 128557.34
+  }
+]
