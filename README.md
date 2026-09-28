@@ -19,33 +19,33 @@ An institutional-grade, Explainable Deep Reinforcement Learning (DRL) Portfolio 
 Ensure you have the following installed on your system:
 * Python 3.10+
 * Node.js 18+ & npm
-* Ollama (for local Llama-3 inference)
+* [Ollama](https://ollama.com/download)
 
 ---
 
 ## Installation & Environment Setup
 
 ### 1. Local LLM Setup (Ollama)
-Ensure the Ollama daemon is active and download the Llama-3 model:
+Download and install Ollama from [ollama.com](https://ollama.com/download). Once installed, run the local Llama-3 model in your terminal:
 
     ollama run llama3
 
 Keep this service running in the background at http://localhost:11434.
 
-### 2. Backend Setup (Python / Django)
-Open a new terminal, navigate to the backend directory, and activate your virtual environment:
+### 2. Backend Environment & Dependencies
+Open a separate terminal in the project root directory, create a Python virtual environment, activate it, and install all required packages:
 
-    cd backend
+    # Create virtual environment
     python -m venv venv
 
+    # Activate virtual environment
     # Windows (Command Prompt / PowerShell)
     venv\Scripts\activate
-
     # macOS / Linux
     source venv/bin/activate
 
-    # Install required Python dependencies
-    pip install torch torchvision stable-baselines3 gymnasium backtrader yfinance pandas numpy scipy matplotlib requests django djangorestframework django-cors-headers
+    # Install dependencies from requirements.txt
+    pip install -r requirements.txt
 
 ### 3. Frontend Setup (React)
 Open a separate terminal and configure the frontend dependencies:
@@ -55,23 +55,35 @@ Open a separate terminal and configure the frontend dependencies:
 
 ---
 
+## Running Verification & Automated Unit Tests
+
+Execute the automated test suite to verify mathematical simplex budget invariants, rolling Sharpe singularities, risk profile clamping, and fallback handlers:
+
+    # Ensure virtual environment is active in the project root
+    python backend/tests.py
+
+---
+
 ## Running Model Training & Experimental Artifacts
 
 Note: Pre-trained weights and pre-computed backtest histories are saved in backend/saved_models/ and backend/backtest_history.json. You only need to run these if retraining or reproducing thesis figures.
 
 * Train Primary PPO Agent (In-Sample: 2020-01-01 to 2024-12-31):
-
+    ```bash
     python backend/train_ppo.py
+    ```
 
 * Run Out-of-Sample Backtest (OOS: 2025-01-01 to 2026-08-30):
   Generates backtest_result.png (DRL vs. Markowitz vs. 1/N) and updates backtest_history.json.
-
+    ```bash
     python backend/backtest.py
+    ```
 
 * Execute Thesis Ablation Study:
   Trains the ablated baseline (Returns-only) and exports ablation_result.png:
-
+    ```bash
     python backend/ablation_study.py
+    ```
 
 ---
 
@@ -79,10 +91,12 @@ Note: Pre-trained weights and pre-computed backtest histories are saved in backe
 
 Run the backend and frontend development servers concurrently:
 
-### Terminal 1: Backend API
+### Terminal 1: Backend REST API
 
-    cd backend
+    # Activate virtual environment if not already active
     venv\Scripts\activate  # Windows
+    # source venv/bin/activate  # macOS / Linux
+
     python manage.py runserver
 
 The Django REST API runs on http://127.0.0.1:8000.
